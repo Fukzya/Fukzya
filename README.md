@@ -29,6 +29,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="start">
-<a href="https://www.linkedin.com/in/santiago-quintana-621b9811b/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="santiquintana0@hotmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/santiago-quintana-621b9811b/"><img src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg" alt="LinkedIn" width="32" height="32" /></a>
+<a href="santiquintana0@hotmail.com"><img src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Hotmail" width="32" height="32" /></a>
 </p>
