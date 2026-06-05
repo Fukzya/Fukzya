@@ -1,17 +1,11 @@
-<h2>Hey there! I'm Santiago Quintana</h2>
-
+<h2>¡Hola! Soy Santiago Quintana</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Fukzya -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I am currently studying a degree in computer science at Champagnat University.\
-✉️ &nbsp;You can shoot me an email at santiquintana0@hotmail.com I'll try to respond as soon as I can.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
+### 👨🏻‍💻 &nbsp;Sobre mí
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.\
+🎓 &nbsp;Actualmente estudio una carrera de informática en la Universidad Champagnat.\
+✉️ &nbsp;Podés escribirme a santiquintana0@hotmail.com y te responderé en cuanto pueda.\
+<img alt="Programando de noche" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+### 🛠 &nbsp;Tecnologías
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -25,9 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### 🤝🏻 &nbsp;Connect with Me
-
+### 🤝🏻 &nbsp;Conectá conmigo
 <p align="start">
 <a href="https://www.linkedin.com/in/santiago-quintana-621b9811b/"><img src="https://img.freepik.com/vector-premium/logotipo-cuadrado-linkedin-aislado-sobre-fondo-blanco_469489-892.jpg" alt="LinkedIn" width="32" height="32" /></a>
 <a href="mailto:santiquintana0@hotmail.com"><img src="https://img.freepik.com/vector-gratis/sobre-email-abierto_1020-530.jpg" alt="Hotmail" width="32" height="32" /></a>
